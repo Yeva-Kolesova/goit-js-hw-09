@@ -1,3 +1,4 @@
+//Task 3
 import Notiflix from "notiflix";
 
 const refs = {
